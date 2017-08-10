@@ -1,0 +1,17 @@
+{
+  "name": "ace-question-box",
+  "version": "1.0.0",
+  "description": "",
+  "main": "application.js",
+  "scripts": {
+    "start": "node application.js"
+  },
+  "author": "Guy Bianco IV <gjbiancoiv@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "~1.17.2",
+    "express": "~4.15.3",
+    "mongodb": "~2.2.31",
+    "sanitize-html": "~1.14.1"
+  }
+}
